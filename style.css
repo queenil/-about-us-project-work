@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    width: 1440px;
+    height: 196;
+    top: 92px;
+
+
+}
+/* style the header*/
+h1 {
+    background-color:rgba(21, 91, 31, 1);
+   color: white;
+    padding: 50px;    
+}
+.button{
+    background-color: rgba(21, 91, 31, 1);
+    border: none;
+    color:white;
+    padding: 5px 10px;
+    text-align:center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 340px;
+height: 65px;
+top: 446px;
+left: 124px;
+border-radius: 5px;
+}
+i1 {color: blue;}
+i2 {color: rgb(207, 13, 39);}
+i3 {color: rgb(23, 189, 244);}
